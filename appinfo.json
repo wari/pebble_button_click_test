@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "23243171-fd7b-4745-a331-6f0c5cd832d4",
+    "appKeys": {},
+    "longName": "Tester",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Tester",
+    "companyName": "wari.wahab@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
